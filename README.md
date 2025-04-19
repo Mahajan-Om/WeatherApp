@@ -12,7 +12,7 @@ A simple and responsive Weather App that provides real-time weather information 
 
 ## 🚀 Demo
 
-[Live Demo](https://your-deployed-link.com)  
+[Live Demo] : https://mahajan-om.github.io/WeatherApp/  
 
 
 
